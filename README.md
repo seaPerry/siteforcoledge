@@ -1,2 +1,2 @@
 # siteforcoledge
-open
+open using главная.html
